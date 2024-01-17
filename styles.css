@@ -45,7 +45,7 @@ div.content{
     font-size: 1.25rem;
 }
 
-div.content > h1 {
+div.content h1 {
     text-align: center;
 }
 
@@ -236,5 +236,4 @@ div.content > h1 {
     font-size: 16px;
     color: white;
 }
-
   /* End Form Style */
